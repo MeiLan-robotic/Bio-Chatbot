@@ -1,0 +1,92 @@
+[
+  {
+    "page_content": "[HÌNH ẢNH & SƠ ĐỒ TRONG TRANG]:\n- static/images/trang_1_hinh_1.png: [Caption lỗi – cần xem lại API key hoặc ảnh không hợp lệ]\n- static/images/trang_1_hinh_2.png: Hình ảnh được cung cấp không chứa sơ đồ hay cơ chế sinh học phân tử nào, mà là một trang văn bản thuộc phần Lời nói đầu của sách giáo khoa *Sinh học 12* (bộ sách Kết nối tri thức với cuộc sống). Nội dung văn bản nêu bật các đặc điểm biên soạn của cuốn sách như: kiến thức cốt lõi logic, sử dụng nhiều hình ảnh và bảng biểu trực quan, hệ thống câu hỏi phát triển tư duy thực tiễn và mục thông tin mở rộng. Phần cuối trang là lời ngỏ của nhóm tác giả mong muốn tiếp nhận các ý kiến đóng góp từ giáo viên, học sinh và các nhà khoa học để hoàn thiện cuốn sách.",
+    "metadata": {
+      "trang": 1,
+      "muc": "Hình ảnh & Sơ đồ",
+      "has_image": true,
+      "images": [
+        {
+          "image_path": "static/images/trang_1_hinh_1.png",
+          "caption": "[Caption lỗi – cần xem lại API key hoặc ảnh không hợp lệ]"
+        },
+        {
+          "image_path": "static/images/trang_1_hinh_2.png",
+          "caption": "Hình ảnh được cung cấp không chứa sơ đồ hay cơ chế sinh học phân tử nào, mà là một trang văn bản thuộc phần Lời nói đầu của sách giáo khoa *Sinh học 12* (bộ sách Kết nối tri thức với cuộc sống). Nội dung văn bản nêu bật các đặc điểm biên soạn của cuốn sách như: kiến thức cốt lõi logic, sử dụng nhiều hình ảnh và bảng biểu trực quan, hệ thống câu hỏi phát triển tư duy thực tiễn và mục thông tin mở rộng. Phần cuối trang là lời ngỏ của nhóm tác giả mong muốn tiếp nhận các ý kiến đóng góp từ giáo viên, học sinh và các nhà khoa học để hoàn thiện cuốn sách."
+        }
+      ]
+    }
+  },
+  {
+    "page_content": "[HÌNH ẢNH & SƠ ĐỒ TRONG TRANG]:\n- static/images/trang_2_hinh_1.png: [Caption lỗi – cần xem lại API key hoặc ảnh không hợp lệ]\n- static/images/trang_2_hinh_2.png: Hình ảnh là bảng mục lục của sách giáo khoa Sinh học (chương trình THPT mới), thể hiện cấu trúc phân phối chương trình, tên các bài học lý thuyết, bài thực hành và số trang tương ứng. Cột bên trái liệt kê các chuyên đề thuộc phần Di truyền học và Tiến hóa, gồm Chương II (Di truyền nhiễm sắc thể), Chương III (Mở rộng học thuyết di truyền nhiễm sắc thể), Chương IV (Di truyền quần thể) và Chương V (Bằng chứng và các học thuyết tiến hoá). Cột bên phải trình bày các kiến thức thuộc phần Sinh thái học, bao gồm sinh thái học quần thể, Chương VII (Sinh thái học quần xã) và Chương VIII (Sinh thái học phục hồi, bảo tồn và phát triển bền vững). Bảng mục lục giúp định hướng lộ trình học tập từ cấp độ di truyền phân tử, tế bào, quần thể đến hệ sinh thái và kết thúc bằng phần tra cứu thuật ngữ ở trang 194.",
+    "metadata": {
+      "trang": 2,
+      "muc": "Hình ảnh & Sơ đồ",
+      "has_image": true,
+      "images": [
+        {
+          "image_path": "static/images/trang_2_hinh_1.png",
+          "caption": "[Caption lỗi – cần xem lại API key hoặc ảnh không hợp lệ]"
+        },
+        {
+          "image_path": "static/images/trang_2_hinh_2.png",
+          "caption": "Hình ảnh là bảng mục lục của sách giáo khoa Sinh học (chương trình THPT mới), thể hiện cấu trúc phân phối chương trình, tên các bài học lý thuyết, bài thực hành và số trang tương ứng. Cột bên trái liệt kê các chuyên đề thuộc phần Di truyền học và Tiến hóa, gồm Chương II (Di truyền nhiễm sắc thể), Chương III (Mở rộng học thuyết di truyền nhiễm sắc thể), Chương IV (Di truyền quần thể) và Chương V (Bằng chứng và các học thuyết tiến hoá). Cột bên phải trình bày các kiến thức thuộc phần Sinh thái học, bao gồm sinh thái học quần thể, Chương VII (Sinh thái học quần xã) và Chương VIII (Sinh thái học phục hồi, bảo tồn và phát triển bền vững). Bảng mục lục giúp định hướng lộ trình học tập từ cấp độ di truyền phân tử, tế bào, quần thể đến hệ sinh thái và kết thúc bằng phần tra cứu thuật ngữ ở trang 194."
+        }
+      ]
+    }
+  },
+  {
+    "page_content": "[HÌNH ẢNH & SƠ ĐỒ TRONG TRANG]:\n- static/images/trang_3_hinh_1.png: Hình ảnh là phần mở đầu bài học trong sách giáo khoa Sinh học 12, bao gồm tiêu đề **\"Phần bốn: Di truyền học\"**, **\"Chương 1: Di truyền phân tử\"** và **\"Bài 1: DNA và cơ chế tái bản DNA\"**. Mặc dù hình ảnh không trực tiếp thể hiện sơ đồ phân tử, đây là bài học giới thiệu về cấu trúc DNA và cơ chế nhân đôi diễn ra trong nhân tế bào (hoặc vùng nhân). Trọng tâm kiến thức của bài học liên quan đến vai trò của các enzim như helicase (tháo xoắn), DNA polymerase (tổng hợp mạch mới theo chiều 5' → 3'), ligase (nối các đoạn Okazaki) dựa trên nguyên tắc bổ sung và bán bảo tồn. Phía dưới cùng của ảnh là mục \"Yêu cầu cần đạt\", định hướng người học trình bày được cấu tạo hóa học, cấu trúc không gian của DNA và diễn biến chi tiết của quá trình tái bản.\n- static/images/trang_3_hinh_2.png: [Bỏ qua – hết quota API ngày hôm nay]",
+    "metadata": {
+      "trang": 3,
+      "muc": "Hình ảnh & Sơ đồ",
+      "has_image": true,
+      "images": [
+        {
+          "image_path": "static/images/trang_3_hinh_1.png",
+          "caption": "Hình ảnh là phần mở đầu bài học trong sách giáo khoa Sinh học 12, bao gồm tiêu đề **\"Phần bốn: Di truyền học\"**, **\"Chương 1: Di truyền phân tử\"** và **\"Bài 1: DNA và cơ chế tái bản DNA\"**. Mặc dù hình ảnh không trực tiếp thể hiện sơ đồ phân tử, đây là bài học giới thiệu về cấu trúc DNA và cơ chế nhân đôi diễn ra trong nhân tế bào (hoặc vùng nhân). Trọng tâm kiến thức của bài học liên quan đến vai trò của các enzim như helicase (tháo xoắn), DNA polymerase (tổng hợp mạch mới theo chiều 5' → 3'), ligase (nối các đoạn Okazaki) dựa trên nguyên tắc bổ sung và bán bảo tồn. Phía dưới cùng của ảnh là mục \"Yêu cầu cần đạt\", định hướng người học trình bày được cấu tạo hóa học, cấu trúc không gian của DNA và diễn biến chi tiết của quá trình tái bản."
+        },
+        {
+          "image_path": "static/images/trang_3_hinh_2.png",
+          "caption": "[Bỏ qua – hết quota API ngày hôm nay]"
+        }
+      ]
+    }
+  },
+  {
+    "page_content": "[HÌNH ẢNH & SƠ ĐỒ TRONG TRANG]:\n- static/images/trang_4_hinh_1.png: [Bỏ qua – hết quota API ngày hôm nay]\n- static/images/trang_4_hinh_2.png: [Bỏ qua – hết quota API ngày hôm nay]",
+    "metadata": {
+      "trang": 4,
+      "muc": "Hình ảnh & Sơ đồ",
+      "has_image": true,
+      "images": [
+        {
+          "image_path": "static/images/trang_4_hinh_1.png",
+          "caption": "[Bỏ qua – hết quota API ngày hôm nay]"
+        },
+        {
+          "image_path": "static/images/trang_4_hinh_2.png",
+          "caption": "[Bỏ qua – hết quota API ngày hôm nay]"
+        }
+      ]
+    }
+  },
+  {
+    "page_content": "[HÌNH ẢNH & SƠ ĐỒ TRONG TRANG]:\n- static/images/trang_5_hinh_1.png: [Bỏ qua – hết quota API ngày hôm nay]\n- static/images/trang_5_hinh_2.png: [Bỏ qua – hết quota API ngày hôm nay]",
+    "metadata": {
+      "trang": 5,
+      "muc": "Hình ảnh & Sơ đồ",
+      "has_image": true,
+      "images": [
+        {
+          "image_path": "static/images/trang_5_hinh_1.png",
+          "caption": "[Bỏ qua – hết quota API ngày hôm nay]"
+        },
+        {
+          "image_path": "static/images/trang_5_hinh_2.png",
+          "caption": "[Bỏ qua – hết quota API ngày hôm nay]"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,5 @@
+.env
+**/__pycache__/
+*.pyc
+biochat_retrieval/chroma_db/
+biochat_preprocessing/data_raw/*.pdf
